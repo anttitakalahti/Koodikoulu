@@ -1,4 +1,4 @@
 # Koodikoulu
 Koodikoulu juristeille tammikuussa 2016
 
-Teksti [Wikissä](/anttitakalahti/Koodikoulu/wiki/Koodikoulu)
+Teksti [Wikissä](https://github.com/anttitakalahti/Koodikoulu/wiki)
